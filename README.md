@@ -11,7 +11,6 @@ Actually My major is Economics..
 
 
 SKills
-<img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
-<img src="https://img.shields.io/badge/JAVA-green??style=flat&logo=Java&logoColor=007396"/>
-<img src="https://img.shields.io/badge/JavaScript-navy??style=for-the-badge&logo=appveyor&logo=JavaScript&logoColor=yellowgreen"/>
-<img src="https://img.shields.io/badge/Oracle-navy??style=for-the-badge&logo=appveyor&logo=Oracle&logoColor=yellowgreen"/>
+<img src="https://img.shields.io/badge/JAVA-blue??style=flat&logo=Java&logoColor=007396"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow??style=for-the-badge&logo=appveyor&logo=JavaScript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Oracle-red??style=for-the-badge&logo=appveyor&logo=Oracle&logoColor=F80000"/>
